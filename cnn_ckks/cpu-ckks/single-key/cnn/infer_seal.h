@@ -14,7 +14,7 @@
 #include <chrono>
 
 
-// AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE
+// AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE. USENIX Security 2024
 
 void resnet_autofhe_cifar10(string &model, string &weight_dir, string &dataset_dir, string &output_dir, size_t num_bootstrapping, size_t start_image_id, size_t end_image_id);
 
