@@ -26,7 +26,7 @@ Secure inference of deep convolutional neural networks (CNNs) under RNS-CKKS inv
 
 ## Comparison Experiments (Quick Usage)
 
-We benchmark AutoFHE and two baselines (MPCNN and AESPA) on the encrypted CIFAR dataset under RNS-CKKS.  You can simply compare your new methods with our results without re-running experiments in our papers. Please benchmark your method on the same environment to ensure a fair comparison between different methods. 
+We benchmark AutoFHE and two baselines (MPCNN and AESPA) on the encrypted CIFAR dataset under RNS-CKKS.  You can simply compare your new methods with our results without re-running experiments in our paper. Please benchmark your method on the same environment to ensure a fair comparison between different methods. 
 
 - **Hardware**: AWS r5.24large (96 CPUs and 768 GB RAM)
 - **Library**: Microsoft SEAL 3.6 
