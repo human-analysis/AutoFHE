@@ -103,7 +103,7 @@ make
 
 [Google Drive](https://drive.google.com/drive/folders/1StqETo8HnDAsGa0Zqd5SrTJvCQmdxdWJ?usp=sharing)
 
-[Dropbox](https://www.dropbox.com/scl/fo/zisugv5ximjp5wm93ivu8/ADHOASAIFl0UrGX8fcqcWVs?rlkey=i7t6cp0v3kfbgjmt5k0it2x2u&st=n41ju2of&dl=0)
+[Dropbox]([https://www.dropbox.com/scl/fo/zisugv5ximjp5wm93ivu8/ADHOASAIFl0UrGX8fcqcWVs?rlkey=i7t6cp0v3kfbgjmt5k0it2x2u&st=n41ju2of&dl=0](https://www.dropbox.com/scl/fo/fkk8iyawo13lnnjiigyar/AFM1pc-yYb2D7eYV8GTPPc4?rlkey=ypx5dailbgl3ndmc0aryxqv1m&st=1y56ma44&dl=0))
 
 ### 3. Evaluate CNNs under RNS-CKKS
 
