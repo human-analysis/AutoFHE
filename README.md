@@ -107,7 +107,7 @@ make
 
 MPCNN or AESPA: ./cnn <algorithm>  <model>  <dataset>  <path_to_weight>  <path_to_dataset>  <path_to_output>  <img_start_id(include)>  <img_end_id(exclude)>
 
-AutoFHE: ./cnn <algorithm>  <model>  <dataset>  <path_to_weight>  <path_to_dataset>  <path_to_output>  <boot>  <img_start_id>  <img_end_id>
+AutoFHE: ./cnn <algorithm>  <model>  <dataset>  <path_to_weight>  <path_to_dataset>  <path_to_output>  <boot>  <img_start_id(include)>  <img_end_id(exclude)>
 
 ```bash
 # Evaluate MPCNN 
