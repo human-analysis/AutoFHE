@@ -13,10 +13,11 @@ Secure inference of deep convolutional neural networks (CNNs) under RNS-CKKS inv
 @inproceedings{ao2024autofhe,
   title={{AutoFHE}: Automated adaption of {CNNs} for efficient evaluation over {FHE}},
   author={Ao, Wei and Boddeti, Vishnu Naresh},
-  booktitle={USENIX Security Symposium},
+  booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
   pages={2173--2190}, 
-  year={2024},
-  note={\url{https://www.usenix.org/system/files/usenixsecurity24-ao.pdf}}
+  address = {Philadelphia, PA},
+  url = {https://www.usenix.org/conference/usenixsecurity24/presentation/ao},
+  publisher = {USENIX Association}
 }
 ```
 
