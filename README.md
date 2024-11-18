@@ -23,10 +23,13 @@ Secure inference of deep convolutional neural networks (CNNs) under RNS-CKKS inv
   month = aug
 }
 ```
+### Presentation at USENIX Security Symposium 2024
+
+[<img src="assets/present_USENIX.png" alt="IMAGE ALT TEXT" style="zoom: 50%;" />](https://youtu.be/LuRnSJ7i3j8?feature=shared "[YouTube] Presentation at USENIX Security Symposium 2024")
 
 ### Talk at FHE.org Toronto 2024
 
-[<img src="assets/talk_FHEorg.png" alt="IMAGE ALT TEXT" style="zoom: 50%;" />](https://www.youtube.com/watch?v=5jzfeUlMPyM&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=13 "[YouTube] AutoFHE Talk at FHE.org Toronto 2024")
+[<img src="assets/talk_FHEorg.png" alt="IMAGE ALT TEXT" style="zoom: 50%;" />](https://www.youtube.com/watch?v=5jzfeUlMPyM&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=1 "[YouTube] AutoFHE Talk at FHE.org Toronto 2024")
 
 ## Comparison Experiments (Quick Usage)
 
