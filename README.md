@@ -2,6 +2,11 @@
 
 Official implementation for AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE. The paper is presented at [the 33rd USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity24/presentation/ao), 2024.
 
+### ✨✨Update (Nov 23, 2025)✨✨
+
+- **1️⃣ Upload multi-objective search and training/fine-tuning code. Please refer to [Search and Training Instruction](search/Search.md).**
+- **2️⃣ Check out our follow-up work [CryptoFace (CVPR 2025)](https://github.com/human-analysis/CryptoFace).**
+
 <img src="assets/AutoFHE.png" style="zoom:130%;" />
 
 <details>
